@@ -1,6 +1,6 @@
 /**
  * File: resultPage.js
- * Autor: Fernanda Ferreira
+ * Autor: Fabio Prado
  * Data: 13/07/2020
  */
 

@@ -15,7 +15,7 @@
     "Appium",
     "JavaScript"
   ],
-  "author": "Fernanda Ferreira",
+  "author": "Fabio Prado",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.10.3",
